@@ -65,8 +65,9 @@
             <p class="cont-font wh-txt" style="padding-left: 20px; padding-top: 10px;">ShirtPlanet es una empresa especializada en la creación de camisetas personalizadas con diseños originales, para hombre y mujer.</p>
             <p class="cont-font wh-txt" style="padding-left: 20px; padding-top: 10px;">Llevamos más de 3 años creando nuevos diseños y trabajando para mejorar la experiencia del cliente. Por eso hemos decidido crear esta página web para que los interesados en nuestros productos, puedan comprar de forma online.</p>
         </div>
-        <div class="column-2">
-            <img src="" alt="">
+        <div class="column-2 flex">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/yZvvw8BpQFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="align-items: center; justify-content: center; padding-left: 5%; border-radius:8px;"></iframe>
+
         </div>
     </div>
     <div id="header" class="column-2 fondo-txt">
