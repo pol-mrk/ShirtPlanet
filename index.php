@@ -88,7 +88,7 @@
         <div class="column-2 parrafo3 social-menu">
             <a class="social-menu2" href="https://wa.me/685416098"><img class="img1" src="./img/WSP.png" alt=""></a>
             <br><br>
-            <a class="social-menu2" href="https://wa.me/685416098"><img class="img1" src="./img/gmail.png" alt=""></a>
+            <a class="social-menu2" href="mailto: shirtplanet.empresa@gmail.com"><img class="img1" src="./img/gmail.png" alt=""></a>
         </div>
     </div>
 </body>
