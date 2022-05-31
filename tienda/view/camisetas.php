@@ -1,7 +1,7 @@
 <?php 
   //empezamos la sesión
   session_start();
-  //miramos si EXISTE la sesión, SI EXISTE le creamos la web con el SLIDER y el boton de CERRAR SESIÓN
+  //miramos si EXISTE la sesión, SI EXISTE le creamos la web de productos y el boton de CERRAR SESIÓN
   if(isset($_SESSION["iniciosesion"])){?>
     <!DOCTYPE html>
     <html lang="en">
@@ -35,7 +35,9 @@
 
             ( <?php 
 $conexion = mysqli_connect("localhost", "root", "", "bd_camisetaspol");
+/* Selecciona la columna (carrito) de la tabla camisetas */
 $sql="SELECT SUM(carrito) FROM tbl_camisetas;";
+
 $result=mysqli_query($conexion,$sql);
 $row=mysqli_fetch_array($result);
 echo "$row[0]";                     
