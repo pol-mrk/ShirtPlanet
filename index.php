@@ -48,10 +48,10 @@
                 <img src="./img/FONDO HOMBRES.png" alt="">
             </section>
             <section class="contenido-slider">
-                <img class="img10" src="./img/FONDO MUJERES.png" alt="">
+                <img class="img10" src="./img/FONDO MUJERES2.png" alt="">
             </section>
             <section class="contenido-slider">
-                <img class="img11" src="./img/fondooooooooooooooo.png" alt="">
+                <img class="img11" src="./img/fondooooooooooooooo2.png" alt="">
             </section>
             <section class="contenido-slider">
                 <img src="./img/4o fondoooooooooooooooooooo.png" alt="">
@@ -60,7 +60,7 @@
     </div>
     <script src="./js/main.js"></script>
     <div class="row fondo-txt">
-        <div id="header" class="column-2">
+        <div id="header" class="column-2 móbil2">
             <h2 class="cont-font wh-txt" style="padding-left: 20px; padding-top: 25px;"><b><u>Quienes somos?</u></b></h2>
             <p class="cont-font wh-txt" style="padding-left: 20px; padding-top: 10px;">ShirtPlanet es una empresa especializada en la creación de camisetas personalizadas con diseños originales, para hombre y mujer.</p>
             <p class="cont-font wh-txt" style="padding-left: 20px; padding-top: 10px;">Llevamos más de 3 años creando nuevos diseños y trabajando para mejorar la experiencia del cliente. Por eso hemos decidido crear esta página web para que los interesados en nuestros productos, puedan comprar de forma online.</p>

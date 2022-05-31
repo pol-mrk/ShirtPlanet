@@ -293,3 +293,17 @@
             width: 80%;
         }
     }
+    
+    @media screen and (max-width:667px) {
+        html {
+            width: 375px;
+            height: 667px;
+        }
+        div .column-2 {
+            width: 100%;
+            float: left;
+        }
+        .móbil2 {
+            width: 85%;
+        }
+    }
